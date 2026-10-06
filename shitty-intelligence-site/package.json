@@ -1,0 +1,12 @@
+{
+  "name": "shitty-intelligence-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "shitty intelligence landing page with live token data",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
